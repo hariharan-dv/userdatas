@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 1. Download this repo and extract in local folder.
 2. Open folder path using command prompt or powershell or gitbash 
-3. Now type 'npm i'
-4. Then `npm start`
+3. Now type 'npm i' then Enter key in keyboard
+4. Then `npm start` then Enter key in keyboard
 5. Now your brower will open the app in http://localhost:3000/
 ### `npm start`
 
