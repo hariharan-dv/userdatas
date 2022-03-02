@@ -2,10 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instructions to open the app in local 
 
 In the project directory, you can run:
-
+1. Download this repo and extract in local folder.
+2. Open folder path using command prompt or powershell or gitbash 
+3. Now type 'npm i'
+4. Then `npm start`
+5. Now your brower will open the app in http://localhost:3000/
 ### `npm start`
 
 Runs the app in the development mode.\
